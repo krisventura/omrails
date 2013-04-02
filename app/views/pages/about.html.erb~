@@ -1,0 +1,13 @@
+<%= link_to "Home", root_path %>
+<%= link_to "About", about_path %>
+
+<h1> About </h1>
+<p>
+HELLO <%= link_to "One month Rails", root_path%>
+is a project shutup 
+<%= link_to "Ruby on rails", "#"%>
+</p>
+
+<div class = "footer">
+<small>foooter footer </small>
+</div>
